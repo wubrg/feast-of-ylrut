@@ -11,9 +11,8 @@ Uncover the secret that allows a lush jungle environment to exist high in the Pe
 - Exploration - 4
 
 ## 30k view
-- Guard and guide Vati in the peaks of fire
-- Meet the Nayibians and get some answers
-- Solve the puzzle
-- Explore the jungle
-- Find hidden pathways
-- Avoid dangerous plants and traps
+- Guard Vati in the dense jungle of the Peaks of Fire
+- Seek out the Nayibians and get some answers
+- Solve the puzzles and find the temple
+- Explore some jungle, what could go wrong?
+- There's always another secret

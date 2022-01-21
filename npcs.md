@@ -1,11 +1,14 @@
 # NPCs
 ## Vati
-- Scientist
-- Industrial Ascendency Corps / Cerberus Corps
-  - Proponent of the Multi-headed God theory?
-  - Industrial Corporation focused on advancing ____
-- Artificer? Rogue? Commoner?
-- Has a 1-2 shot rail gun of sorts? Only one who knows how to use it, only as a last resort
+
+dndbeyond character sheet goes here.
+
+Vati is a sturdy woman dressed in a pristine jungle explorer outfit. She possesses a firearm with the vorpal ability. She is a scientist with the Cerberus Corporation (CC) and she is researching the peculiar magical events happening in the Peaks of Fire. The CC is an organization focused on advancing science through the study of the arcane.
+
+Vati is the only NPC who knows how to activate the portal stone to take the party back home. Amongst other trinkets, she has a sending stone that she shares with Dusk, some notes about various aspects of the jungle that she and Dusk have discovered so far, and some notes about the Nayibians and various local legends.
+
+The Cerberus Corps are searching for Worldheart Shard. The Worldheart Shard is a tooth of the Ancient Red Dragon God Ylrut. Ylrut used it to create his lair deep in the heart of the Peaks of Fire. It is the source of the lush jungle environment at 20k feet.   
+
 
 ## Dusk
 - Ranger
