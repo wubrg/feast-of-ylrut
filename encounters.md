@@ -29,12 +29,13 @@ On an island in the Lake of Fire
 Lake of Fire - https://www.dndbeyond.com/encounters/d3982c2f-4dd8-49d3-87c7-3688a6ff2ce9
 
 ## A Failure To Communicate
-Negotiations with the temple guardians have stalled.
-The party has refused to offer a sacrifice or prove their worth and instead has chosen the way of the murder hobo.
-Their death is imminent.
-The fight takes place at the temple
-Enchanted with permanent Druid Grove - https://www.dndbeyond.com/spells/druid-grove
-Sub ents with Red Dragon Drakes
-Multiple guardian warriors
-The Temple Chieftain
-The Temple Shaman
+- Negotiations with the temple guardians have stalled.
+- The party refused to sacrifice one of their own or challenge the guardian of the Lake of Fire.
+- Their death is imminent.
+- The fight takes place at the temple
+
+- The temple is enchanted with permanent [Druid Grove](https://www.dndbeyond.com/spells/druid-grove)
+- Sub ents with Red Dragon Drakes (4)
+- Multiple guardian warriors (d6+2)
+The Temple Chieftain (1)
+The Temple Shaman (2)
