@@ -1,4 +1,5 @@
 # Monsters and Traps
+
 ## Jungle warrior
 Monk or fighter
 Spears and poisoned blow darts
@@ -21,8 +22,9 @@ https://www.dndbeyond.com/monsters/2146389-red-kong
 
 ## Fire Serpent
 Guardian of the Maw
+Champion of Ylrut
+Ylrut's Chosen
 Patji
-https://www.dndbeyond.com/monsters/young-red-dragon
 
 ## Deathblossom Tree
 Triggers the Death Chicken chase
@@ -35,4 +37,4 @@ Called - Deathbeak
 https://www.dndbeyond.com/monsters/panther
 
 
-Landslide
+## Landslide

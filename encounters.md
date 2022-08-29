@@ -9,7 +9,7 @@ A pack of boars are drinking from the stream and parading around. They have brig
 Bacon - https://www.dndbeyond.com/encounters/da14d940-f2f6-4abf-b0c4-2b4c331fbe93
 
 ## Boss of Toss
-In the deep dense jungle the party has stumbled onto a Red Ape. Its truly terrifying and it cannot be avoided without utmost stealth.
+In the deep dense jungle the party has stumbled onto a Red Ape. It is truly terrifying and it cannot be avoided without utmost stealth.
 The Red Ape heart is the needed offering to complete the Monument / Relic puzzle.
 The King’s Heart - https://www.dndbeyond.com/encounters/0e0dd43b-a69f-4386-939c-573417452f4b
 

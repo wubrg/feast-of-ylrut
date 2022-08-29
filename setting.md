@@ -12,56 +12,28 @@ https://www.mindomo.com/mindmap/maw-of-ylrut-ee5d5c0e8b61400c9795623f360441a6
 
 ## Scenes
 ### Welcome to the Jungle
-- Intro the party to Vati, Dusk and Sak
-  - Base Camp, the jungle beyond, shrouded in dense foliage and a haze of fog.
-- Vati’s Research
-- Dusk’s findings / maps
+It's a bright and cheery morning when you wake up. After breakfast in the mess hall the party converges in the appointed meeting room here in the Cerberus Corporation HQ. Dusk enters the room and introduces himself and his avian companion, Sak. He makes sure everyone is ready to go and is prepared to assist him and Vati in the Nayibian jungles. He gives everyone 2 potions of healing and tells Sak to "do the thing for them too". Sak squawks and flaps his wings and everyone feels a sense of safety and assuredness. Have each player roll a d4 from Sak's table.
 
-#### Exposition
-- The following should be read aloud or summarized to the players describing the base camp.
+He isn't particularly forthcoming about _what_ is so important. He mentions that they'll need to investigate the Reliquary Tree again and that they haven't had enough muscle to make it back.
 
-It's a bright and cheery morning when you wake up. It's a little stuffy perhaps, but nothing to complain about. Vati's made this encampment quite comfortable. You're not really sure what all the fuss was about when Dusk told you on what to expect out here.
+When the party is ready, he leads them through a portal and they arrive in the sending circle at base camp.
 
-Outside your tent, there are the tents for the other members of Vati's _guard_. Each one looks the same as yours, that is to say they are all small, but somehow quite large and comfortable on the inside. This must be an important mission for Vati to have multiple of these magic tents. But that's why you took the job, she's paying you well, _extremely_ well.
+##### Beaks of Terror
 
-The rest of the encampment is Vati's tent, and Dusk's... well its not a tent so much as its a crude treehouse. There's an actual building structure within what appear to be some old ruins. The cloth roof strung up with rope is a stark contrast to the luxuriousness of your tent. Within this makeshift building are crates and tables full of Vati's research and Dusk's collection. You've been paid to not ask questions but damn if the secrecy doesn't make you curious. In the middle of the encampment is the portal stone, resting atop a tree stump with a big red 'Property of Vati - DO NOT TOUCH' sign glimmering in the daylight.
+Base camp is a horror scene. Death and destruction are everywhere. Tents are burning and smoke is thick. Blood stains the dirt in the main thoroughfare of the camp.
 
-The encampment is walled off and the gate is closed. As you walk over to greet her and Dusk, you can overhear them arguing about the fortifications and how hidden they are. Dusk is none too happy, but Vati assures him that everything is taken care of. She assures him that the Cerberus Corps are extremely interested in this mission succeeding and have spared no expense to see it through. You hear Dusk mutter something about magic this and that, but that's the end of the conversation.
+- Set the scene, build tension
+- Dusk -> Find Vati! The portal is a one-way gate, without her they're stuck here.
+- Party fans out, a Deathbeak corpse lays twitching near one tent. So many bodies near it though.
+- Another Deathbeak appears (think Jurassic Park)
+- Vati runs, begin chase scene (tidbit - Dusk yells at Vati "I told you we should've setup closer to water!")
 
-Vati looks up as you all walk over. Ahh yes, good morning! Glad to see you're all up and about, breakfast is on the way, why don't we have a seat and go over our plans for today?
+_Roll initiative_
 
-#### DM Info
-We start this adventure discussing the plans for the day over breakfast. Vati should ask about each of the hired guards and get them to introduce the characters to each other. Vati and Dusk can then answer questions about what we're doing here.
-
-The plan for the day is to take the team out to a location that Dusk has marked on a map of his. The map should lead them to a stone monument that they believe will contain clues about where the Nayibian temple is located. Vati wants to find the Temple so that she can interrogate the people there and collect some information.
-
-You can find more info on Vati and Dusk's motives in their sections on the NPC page.
+If someone dies here, they can "find" their backup character hiding in a tent nearby.
 
 ##### Considerations
 
-If the party is capable of flight, they can easily do so. However the jungle is heavily obscured with fog and the druids have encased the land in Hallucinatory Terrain. The party will get disadvantage on perception checks to find the temple due to the fog. If the party critically succeeds a DC 25 perception check they can spot the cliffs and land there. In all other cases they will be able to return to where they took off from. A critical failure will land them all the way back at the landing site.  
+If the party is capable of flight, they can easily do so. However the jungle is heavily obscured with fog and the druids have encased the land in Hallucinatory Terrain. The party will get disadvantage on perception checks trying to view the jungle from above. They may see basic landmarks like a river (waterfall), a particularly large tree (Red Kong), a clearing in the forest (ruins), etc.
 
 ##### What we're doing here
-
-### Moving through the jungle paths
-
-
-### Jungle Monument
-After reviewing the monument the party heads onward into the jungle. They come upon the clearing for the Sizzle Pig encounter.
-
-They may choose to sneak around the boars but they will need to find the hidden path. The path leads directly to the relic location.
-
-THIS NEEDS TO MATCH THE MAP!!!!
-
-### Jungle Relic
-After finding the relic the party heads back into the jungle. They come across a giant Red Kong and can fight or sneak and uncover the hidden path. The path leads directly to the monument location. They could also just turn around and go back to base camp.
-
-### The Cliffs
-After surviving the onslaught of angry chickens the party comes to a cliff-face that overlook the Lake of Fire. It is possible the party finds a path directly to the lake but it is treacherous. There are other dead bodies strewn about here that contain journals, special items that hint at what they can expect at the lake.
-
-### The Temple
-
-- Intro the guardians and their demands
-  - Test your might
-  - sacrifice
-  - attack!
